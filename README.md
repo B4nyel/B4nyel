@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **nothing**
 
-- 📫 How to reach me **you should not really reach me**
+- 📫 How to reach me **dm me on discord (banyell)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
