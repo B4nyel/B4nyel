@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Slovakia</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on School projects<br>🤝 I’m not looking for help with anything lol<br>🌱 I’m currently learning Java<br>⚡ Fun fact - I like to code the most pointless stuff
+🔭 I’m currently working on random projects<br>🤝 I’m not looking for help with anything lol<br>🌱 I’m not currently learning anything<br>⚡ Fun fact - I like to code the most pointless stuff
 
 
 ## 🌐 Socials:
